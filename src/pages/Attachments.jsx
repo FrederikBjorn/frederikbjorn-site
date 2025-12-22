@@ -110,14 +110,6 @@ export default function Attachments() {
   return (
     <main style={{ padding: 40, fontFamily: "system-ui, sans-serif" }}>
       <h1>Attachments</h1>
-      <p>
-        As supporting the thesis;{" "}
-        <em>
-          ‘Designing a Dynamic Music System for Narrative Audio Storytellers’
-        </em>
-        , here is supplied attachments.
-      </p>
-      <h2>Attachments</h2>
       <section style={{ margin: "32px 0" }}>
         <h3 style={{ marginBottom: 8 }}>
           Attachment 1 – Study Questionnaire, the Creativity Support Index
