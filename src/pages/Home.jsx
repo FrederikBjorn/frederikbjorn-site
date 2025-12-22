@@ -32,7 +32,7 @@ export default function Home() {
         <li>Software Design Thesis</li>
         <li>KISPECI1SE</li>
         <li>Supervisor – Louise Barkhuus</li>
-        <li>A collaboration study with Hindenburg Systems</li>
+        <li>A Collaboratory Study with Hindenburg Systems</li>
       </ul>
     </main>
   );
