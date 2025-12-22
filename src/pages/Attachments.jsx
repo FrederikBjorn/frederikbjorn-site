@@ -301,7 +301,7 @@ Automations, FR - Not implemented.`}
           preload="metadata"
           style={{ width: "100%", maxWidth: 900, display: "block" }}
         >
-          <source src="/Attachments/Attachment05.mp4" type="video/mp4" />
+          <source src="/Attachments/Attachment05-comp.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
 
