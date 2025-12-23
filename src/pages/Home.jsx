@@ -34,6 +34,22 @@ export default function Home() {
         <li>Supervisor – Louise Barkhuus</li>
         <li>A Collaboratory Study with Hindenburg Systems</li>
       </ul>
+
+      <a
+        href="/Designing-a-Dynamic-Music-System-for-Narrative-Audio-Storytellers-Blauenfeldt.pdf"
+        download
+        style={{
+          marginTop: 24,
+          padding: "12px 20px",
+          borderRadius: 6,
+          backgroundColor: "#213547",
+          color: "#fff",
+          textDecoration: "none",
+          fontWeight: 500,
+        }}
+      >
+        Download Thesis (PDF)
+      </a>
     </main>
   );
 }
